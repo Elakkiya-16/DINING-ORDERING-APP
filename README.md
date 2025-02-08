@@ -25,3 +25,7 @@ This project uses basic web technologies including HTML, CSS, and JavaScript to 
 - **CSS3**: Used for styling the layout, design, and responsiveness of the pages.
 - **JavaScript**: Used for dynamic features and interactions on the site.
 
+##Usage
+Open the index.html file in any web browser (Chrome, Firefox, etc.) to view the website.
+Use the navigation bar to explore the different pages (Menu, Book a Table, Recipes, etc.).
+The website is designed to be responsive and will adjust to various screen sizes (desktop, tablet, mobile).
